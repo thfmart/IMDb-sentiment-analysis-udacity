@@ -5,7 +5,7 @@ This is the final solution of the project 'Sagemaker Deployment' which consists 
 
 In the final architecture AWS API Gateway and AWS Lambda functions is used as well. The application architecture diagram is:
 
-![Web app Diagram](./Web&#32;App&#32;diagram.svg) 
+![Web app Diagram](./diagram.svg) 
 
  This project assumes some familiarity with SageMaker, the IMDB Sentiment Analysis using XGBoost mini-project (which can be found in the original repository) should provide enough background.
 
